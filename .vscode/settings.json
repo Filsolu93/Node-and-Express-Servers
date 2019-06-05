@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "logfile": "explorerExcludedFiles",
+    "node_modules/": "explorerExcludedFiles"
+  }
+}
