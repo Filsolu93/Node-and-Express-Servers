@@ -1,8 +1,8 @@
 # Node-and-Express-Servers
-Simple Node with Express + PostgreSQL Server
-Build Status Slack Greenkeeper badge
+Simple Node with Express + Server
+Build Status Slack states 
 
-An easy way to get started with a Express server with PostgreSQL with Node.js. Read more about it.
+An easy way to get started with a Express server with sql with Node.js. Read more about it.
 
 Features
 Babel 7
